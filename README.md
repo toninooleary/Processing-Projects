@@ -14,4 +14,6 @@
 
 # Gaussian Distribution Snails:
 
+![image](./images/snails_image.PNG)
+
 ![image](./images/snails.gif)
