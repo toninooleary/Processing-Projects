@@ -1,11 +1,17 @@
 # Experimental projects using processing
 
-# Simple Second Counter:
+# Exprimenting with Lerp:
+
+![image](./images/linear_interpolation(lerp).gif)
 
 # Gaussian Distribution Visualised:
 
-# Exprimenting with Lerp:
+![image](./images/gd_visualised.gif)
 
 # Gaussian Distribution Bees:
 
+![image](./images/bees.gif)
+
 # Gaussian Distribution Snails:
+
+![image](./images/snails.gif)
