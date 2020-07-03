@@ -19,9 +19,11 @@ void draw(){
 void mainMenu(){
   background(#70A9A1);
   
+  // title
   textSize(40);
   text("A Banging Timer", width/2 - 160, height/2 - 100);
   
+  // Start Button
   fill(#637175);
   noStroke();
   rect(width/2 - width/4 + 3, height/2 + 3, 350, 100);
@@ -29,6 +31,7 @@ void mainMenu(){
   noStroke();
   rect(width/2 - width/4, height/2, 350, 100);
   
+  // Sraer rext
   textSize(32);
   fill(255);
   text("Start!", width/2 - 40, height/2 + 60);
@@ -37,4 +40,8 @@ void mainMenu(){
 
 void timer(){
   background(150);
+}
+
+void mousePressed(){
+
 }
